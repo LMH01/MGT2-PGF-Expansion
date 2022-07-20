@@ -392,9 +392,9 @@ WarTech - Robot Warrios <BOARD>
 Warhammer 30K <BOARD>
 101 Dalmations <MOVIE>
 102 Dalmations <MOVIE>
-13 Hours
+13 Hours <MOVIE>
 1984 <MOVIE>
-2 Fast 2 Furious
+2 Fast 2 Furious <MOVIE>
 20 Jump Street <MOVIE>
 21 Jump Street <MOVIE>
 22 Jump Street <MOVIE>
@@ -814,7 +814,7 @@ F9 - Fast & Furious 9 <MOVIE>
 Fahrenheit 451 <MOVIE>
 Falcon and The Winter Soldier <MOVIE>
 Family Guy <MOVIE>
-Fantastic Beasts The Secrets of Dumbledore
+Fantastic Beasts The Secrets of Dumbledore <MOVIE>
 Fantastic Beasts and Where to Find Them <MOVIE>
 Fantastic Beasts: The Crimes of Grindlewald <MOVIE>
 Fantastic Four <MOVIE>
